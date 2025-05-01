@@ -57,10 +57,8 @@
       margin-top: 2rem;
       font-size: 0.9rem;
       color: #666;
-
-
-
-  .top-right-image {
+      
+  .top-left-image {
     position: absolute;
     top: 10px;
     right: 10px;
@@ -68,7 +66,7 @@
     z-index: 1000;
   }
 
-  .top-right-image img {
+  .top-left-image img {
     height: 50px;       
     width: auto;
     border-radius: 8px;
@@ -87,7 +85,7 @@
 <body>
 
 <div class="top-right-image">
-  <img src="C:\Users\HP PC\Downloads\images\dr-rizs.jpg" alt="Dr.RiZs">
+  <img src="images/dr-rizs.jpg" alt="Dr.RiZs">
   <p class="image-caption">Dr.RiZs</p>
 </div>
 
