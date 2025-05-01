@@ -58,9 +58,27 @@
       font-size: 0.9rem;
       color: #666;
     }
+  .logo-container {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    z-index: 1000;
+  }
+
+  .logo-container img {
+    height: 40px;
+    width: auto;
+    border-radius: 10px;
+  }
+
   </style>
 </head>
 <body>
+  <div class="logo-container">
+  <img src="C:\Users\HP PC\Downloads\photos\image (3).jpg" alt="Logo">
+  <span style="font-size: 14px; color: #333; font-weight: bold;">Dr.RiZs</span>
+</div>
+
   <header>
     <h1>Dr.RiZs PDFs</h1>
   </header>
