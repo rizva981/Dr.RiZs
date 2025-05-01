@@ -67,20 +67,21 @@
   <main>
     <div class="pdf-grid">
 
-      <a class="pdf-card" href="https://drive.google.com/file/d/1WIuY_5kv05CONiZZQxhgX4QlgP9yFsWv/view?usp=drive_link" 
+      [<a class="pdf-card" href=](https://drive.google.com/file/d/11rD_7Oam6NoaS0gTXN8I-W8ziYTnuwUB/view?usp=drive_link)"https://drive.google.com/file/d/1WIuY_5kv05CONiZZQxhgX4QlgP9yFsWv/view?usp=drive_link" 
 
-target="_blank" rel="noopener noreferrer">ICT test paper</a>
+target="_blank" ="noorelpener noreferrer">ICT test paper</a>
       <a class="pdf-card" href="https://drive.google.com/file/d/1Yr86Fcc4Ymb-GUB_Deq0nlpwKsX9mNmx/view?usp=drive_link" 
 
 target="_blank" rel="noopener noreferrer">ICT guide</a>
       <a class="pdf-card" href="https://drive.google.com/file/d/10IfN99EJAFYyqOl6fecg14HAVmVlhjVq/view?usp=drive_link" 
 
 target="_blank" rel="noopener noreferrer">Economics 1st paper guide</a>
-     
+    <a class="pdf-card" href="https://drive.google.com/file/d/11rD_7Oam6NoaS0gTXN8I-W8ziYTnuwUB/view?usp=drive_link"
+target="_blank"rel="noopener noreferrer">Accounting 1st paper guide</a>
     </div>
   </main>
   <footer>
-    Made by Dr.RiZs
+    Made with love by Dr.RiZs
   </footer>
 </body>
 </html>
