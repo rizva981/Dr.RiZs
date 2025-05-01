@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -66,15 +66,14 @@
   </header>
   <main>
     <div class="pdf-grid">
-      <!-- Example PDF link cards (click to open in new tab) -->
+     
       <a class="pdf-card" href="https://drive.google.com/file/d/11rD_7Oam6NoaS0gTXN8I-W8ziYTnuwUB/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Accounting 1st paper gude</a>
       <a class="pdf-card" href="https://drive.google.com/file/d/10IfN99EJAFYyqOl6fecg14HAVmVlhjVq/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Economics 1st paper guide</a>
       <a class="pdf-card" href="https://drive.google.com/file/d/1Yr86Fcc4Ymb-GUB_Deq0nlpwKsX9mNmx/view?usp=drive_link" target="_blank" rel="noopener noreferrer">ICT guide</a>
-      <a class="pdf-card" href="https://drive.google.com/file/d/1sW86P8YK3sGYYhK3pFcUNfdIAWukIpZE/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Economics test paper</a>
+      <a class="pdf-card" href="https://drive.google.com/file/d/1sW86P8YK3sGYYhK3pFcUNfdIAWukIpZE/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Economics 1st papertest paper</a>
       <a class="pdf-card" href="https://drive.google.com/file/d/1WIuY_5kv05CONiZZQxhgX4QlgP9yFsWv/view?usp=drive_link" target="_blank" rel="noopener noreferrer">ICT test paper</a>
-      <a class="pdf-card" href="https://drive.google.com/file/d/1XqXjHkqenMfEiZPOfkOqVqIjWBDLEjMY/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Bangla 1st paper guide/a>
-
-      <!-- Add or duplicate the anchor tags above to include more PDF links -->
+      <a class="pdf-card" href="https://drive.google.com/file/d/1XqXjHkqenMfEiZPOfkOqVqIjWBDLEjMY/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Bangla 1st paper guide</a>
+        
     </div>
   </main>
   <footer>
