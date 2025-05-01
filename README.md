@@ -1,7 +1,6 @@
 
 <html lang="en">
 <head>
-
   <title><a href="http://https://www.facebook.com/profile.php?id=61571914823800&__cft__[0]=AZViulgYZeuxuqT1hHF4NDd2NB89xwp4iGTJ0UCFva_2v0f3eWgrabIQf2j-abhSxHm40PXQZsHMEUEKpTSaFXMkWTMFF9O75cip2-QQdifhZCMEMBRQ_ZTUlLZBerzG-unGKB0RFCrziZXCLsppGPmoc_VpvvgHLHjpK4vUefym2REKYGbrOi-aczIL9gGjO8gkvKRon-S32IjqFSkeB-KlE_jz5iExgWXvhr8ZYkvkGg&__cft__[1]=AZViulgYZeuxuqT1hHF4NDd2NB89xwp4iGTJ0UCFva_2v0f3eWgrabIQf2j-abhSxHm40PXQZsHMEUEKpTSaFXMkWTMFF9O75cip2-QQdifhZCMEMBRQ_ZTUlLZBerzG-unGKB0RFCrziZXCLsppGPmoc_VpvvgHLHjpK4vUefym2REKYGbrOi-aczIL9gGjO8gkvKRon-S32IjqFSkeB-KlE_jz5iExgWXvhr8ZYkvkGg&__tn__=-]H-R">Dr.RiZs</a></title>
   <style>
     /* Basic resets and styles */
@@ -61,7 +60,7 @@
   </style>
 </head>
 <body>
-
+<img src="C:\Users\HP PC\Downloads\images\dr-rizs.jpg" hight="100" width="50">
   <header>
     <h1>Dr.RiZs PDFs</h1>
   </header>
@@ -74,7 +73,9 @@
       <a class="pdf-card" href="https://drive.google.com/file/d/1sW86P8YK3sGYYhK3pFcUNfdIAWukIpZE/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Economics 1st test paper</a>
       <a class="pdf-card" href="https://drive.google.com/file/d/1WIuY_5kv05CONiZZQxhgX4QlgP9yFsWv/view?usp=drive_link" target="_blank" rel="noopener noreferrer">ICT test paper</a>
       <a class="pdf-card" href="https://drive.google.com/file/d/1XqXjHkqenMfEiZPOfkOqVqIjWBDLEjMY/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Bangla 1st paper guide</a>
-        
+      <a class="pdf-card" href="https://drive.google.com/file/d/1Dj9dEAVHN51_1F1NWezbBqD8G25iXCqE/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Management exclusive tips</a>
+      <a class="pdf-card" href="https://drive.google.com/file/d/1YOD_IqWhtcNR7tSnL06COx7LGhhx4DBv/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Finance banking 1st paper guide</a>
+
     </div>
   </main>
   <footer>
