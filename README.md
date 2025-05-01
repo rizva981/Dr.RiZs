@@ -1,8 +1,7 @@
 
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
   <title>Dr.RiZs</title>
   <style>
     /* Basic resets and styles */
@@ -62,11 +61,6 @@
   </style>
 </head>
 <body>
-
-<div >
-  <img src="images/dr-rizs.jpg" alt="Dr.RiZs">
-  <p class="image-caption">Dr.RiZs</p>
-</div>
 
   <header>
     <h1>Dr.RiZs PDFs</h1>
