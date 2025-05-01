@@ -58,33 +58,12 @@
       font-size: 0.9rem;
       color: #666;
       
-  .top-left-image {
-    position: absolute;
-    top: 10px;
-    right: 10px;
-    text-align: center;
-    z-index: 1000;
-  }
-
-  .top-left-image img {
-    height: 50px;       
-    width: auto;
-    border-radius: 8px;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
-  }
-
-  .image-caption {
-    margin-top: 4px;
-    font-size: 12px;
-    color: #444;
-    font-weight: bold;
-  }
 
   </style>
 </head>
 <body>
 
-<div class="top-right-image">
+<div >
   <img src="images/dr-rizs.jpg" alt="Dr.RiZs">
   <p class="image-caption">Dr.RiZs</p>
 </div>
