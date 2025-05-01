@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -62,8 +62,8 @@
 </head>
 <body>
   <header>
-    <h1>Dr.RiZs</h1>
-  </header>
+    <h1>Dr.RiZs PDFs</h1>
+  </header><p>Hi guys I'm Dr.RiZs welcome to my page here you can find any type of pdfs you want for you HSC exam</p>
   <main>
     <div class="pdf-grid">
 
