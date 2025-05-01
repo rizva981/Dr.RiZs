@@ -69,7 +69,7 @@
   }
 
   .top-right-image img {
-    height: 40px;       
+    height: 50px;       
     width: auto;
     border-radius: 8px;
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
