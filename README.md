@@ -58,23 +58,38 @@
       font-size: 0.9rem;
       color: #666;
 
-  .content-image {
-    width: 100%;      
-    max-width: 100px;
-    height: auto;    
-    margin: 20px auto;
-    display: block;
-    border-radius: 10px; 
+
+
+  .top-right-image {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    text-align: center;
+    z-index: 1000;
+  }
+
+  .top-right-image img {
+    height: 40px;       
+    width: auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+  }
+
+  .image-caption {
+    margin-top: 4px;
+    font-size: 12px;
+    color: #444;
+    font-weight: bold;
   }
 
   </style>
 </head>
 <body>
-<div class="image-box">
-  <img src="C:\Users\HP PC\Downloads\photos\image(3).jpg" alt="My Picture">
+
+<div class="top-right-image">
+  <img src="C:\Users\HP PC\Downloads\images\dr-rizs.jpg" alt="Dr.RiZs">
   <p class="image-caption">Dr.RiZs</p>
 </div>
-
 
   <header>
     <h1>Dr.RiZs PDFs</h1>
