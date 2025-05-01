@@ -60,9 +60,10 @@
   </style>
 </head>
 <body>
-<img src="C:\Users\HP PC\Downloads\images\dr-rizs.jpg" hight="100" width="50">
+  <p><b><u>follow my face book page RiZs TV</u></b></p>
   <header>
     <h1>Dr.RiZs PDFs</h1>
+    <h4>Here are pdfs of many topics of HSC just tap </h4>
   </header>
   <main>
     <div class="pdf-grid">
