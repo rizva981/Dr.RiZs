@@ -73,12 +73,12 @@ Dr.RiZs PDFs</font></h1>
       <a class="pdf-card" href="https://drive.google.com/file/d/11rD_7Oam6NoaS0gTXN8I-W8ziYTnuwUB/view?usp=drive_link" target="_blank" rel="noopener noreferrer"><font color="red">Accounting 1st paper guide</font></a>
       <a class="pdf-card" href="https://drive.google.com/file/d/10IfN99EJAFYyqOl6fecg14HAVmVlhjVq/view?usp=drive_link" target="_blank" rel="noopener noreferrer"><font color="blue">Economics 1st paper guide</font></a>
       <a class="pdf-card" href="https://drive.google.com/file/d/1Yr86Fcc4Ymb-GUB_Deq0nlpwKsX9mNmx/view?usp=drive_link" target="_blank" rel="noopener noreferrer"><font color="orange">ICT guide</font></a>
-      <a class="pdf-card" href="https://drive.google.com/file/d/1sW86P8YK3sGYYhK3pFcUNfdIAWukIpZE/view?usp=drive_link" target="_blank" rel="noopener noreferrer"><font color="yellow">Economics 1st test paper</font></a>
+      <a class="pdf-card" href="https://drive.google.com/file/d/1sW86P8YK3sGYYhK3pFcUNfdIAWukIpZE/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Economics 1st test paper</a>
       <a class="pdf-card" href="https://drive.google.com/file/d/1WIuY_5kv05CONiZZQxhgX4QlgP9yFsWv/view?usp=drive_link" target="_blank" rel="noopener noreferrer"><font color="purple">ICT test paper</font></a>
       <a class="pdf-card" href="https://drive.google.com/file/d/1XqXjHkqenMfEiZPOfkOqVqIjWBDLEjMY/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Bangla 1st paper guide</a>
       <a class="pdf-card" href="https://drive.google.com/file/d/1Dj9dEAVHN51_1F1NWezbBqD8G25iXCqE/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Management exclusive tips</a>
       <a class="pdf-card" href="https://drive.google.com/file/d/1YOD_IqWhtcNR7tSnL06COx7LGhhx4DBv/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Finance banking 1st paper guide</a>
-
+      <a class="pdf-card" href="https://drive.google.com/file/d/14XNgOEDIvJAFaiFwkmzWEEis12GYOHH5/view?usp=drive_link" rel="noopener noreferrer"><font color="yellow">ওয়েব ডিজাইন পরিচিতি এবং HTML CQ</font></a>
     </div>
   </main>
   <footer>
