@@ -1,7 +1,7 @@
 
 <html lang="en">
 <head>
-  <title><a href="http://https://www.facebook.com/profile.php?id=61571914823800&__cft__[0]=AZViulgYZeuxuqT1hHF4NDd2NB89xwp4iGTJ0UCFva_2v0f3eWgrabIQf2j-abhSxHm40PXQZsHMEUEKpTSaFXMkWTMFF9O75cip2-QQdifhZCMEMBRQ_ZTUlLZBerzG-unGKB0RFCrziZXCLsppGPmoc_VpvvgHLHjpK4vUefym2REKYGbrOi-aczIL9gGjO8gkvKRon-S32IjqFSkeB-KlE_jz5iExgWXvhr8ZYkvkGg&__cft__[1]=AZViulgYZeuxuqT1hHF4NDd2NB89xwp4iGTJ0UCFva_2v0f3eWgrabIQf2j-abhSxHm40PXQZsHMEUEKpTSaFXMkWTMFF9O75cip2-QQdifhZCMEMBRQ_ZTUlLZBerzG-unGKB0RFCrziZXCLsppGPmoc_VpvvgHLHjpK4vUefym2REKYGbrOi-aczIL9gGjO8gkvKRon-S32IjqFSkeB-KlE_jz5iExgWXvhr8ZYkvkGg&__tn__=-]H-R">Dr.RiZs</a></title>
+  <title>>Dr.RiZs</a></title>
   <style>
     /* Basic resets and styles */
     body {
@@ -60,7 +60,7 @@
   </style>
 </head>
 <body>
-  <p><b><u>follow my face book page RiZs TV</u></b></p>
+  <p><b><u><a href="http://https://www.facebook.com/profile.php?id=61571914823800&__cft__[0]=AZViulgYZeuxuqT1hHF4NDd2NB89xwp4iGTJ0UCFva_2v0f3eWgrabIQf2j-abhSxHm40PXQZsHMEUEKpTSaFXMkWTMFF9O75cip2-QQdifhZCMEMBRQ_ZTUlLZBerzG-unGKB0RFCrziZXCLsppGPmoc_VpvvgHLHjpK4vUefym2REKYGbrOi-aczIL9gGjO8gkvKRon-S32IjqFSkeB-KlE_jz5iExgWXvhr8ZYkvkGg&__cft__[1]=AZViulgYZeuxuqT1hHF4NDd2NB89xwp4iGTJ0UCFva_2v0f3eWgrabIQf2j-abhSxHm40PXQZsHMEUEKpTSaFXMkWTMFF9O75cip2-QQdifhZCMEMBRQ_ZTUlLZBerzG-unGKB0RFCrziZXCLsppGPmoc_VpvvgHLHjpK4vUefym2REKYGbrOi-aczIL9gGjO8gkvKRon-S32IjqFSkeB-KlE_jz5iExgWXvhr8ZYkvkGg&__tn__=-]H-R">follow my face book page RiZs TV</a></u></b></p>
   <header>
     <h1>Dr.RiZs PDFs</h1>
     <h4>Here are pdfs of many topics of HSC just tap </h4>
