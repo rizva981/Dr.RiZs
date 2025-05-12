@@ -61,9 +61,9 @@
   </style>
 </head>
 <body>
-  <p><b>follow my face book page <a href="https://www.facebook.com/profile.php?id=61571914823800">RiZs TV</a></b></p>
+  <p><b>follow my facebook page <a href="https://www.facebook.com/profile.php?id=61571914823800">RiZs TV</a></b></p>
   <header>
-    <h1><font color="gray">
+    <h1><font color="black">
 Dr.RiZs PDFs</font></h1>
     <h4>Here are pdfs of many topics of HSC just tap </h4>
   <h6>RS</h6>
@@ -84,7 +84,7 @@ Dr.RiZs PDFs</font></h1>
     </div>
   </main>
   <footer>
-    Made with love by Dr.RiZs
+    Made by mokles
   </footer>
 </body>
 </html>
